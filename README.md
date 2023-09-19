@@ -1,0 +1,1 @@
+Sample project for the LPCXpresso55S69 development board.
